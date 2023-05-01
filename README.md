@@ -4,6 +4,11 @@
   <img src="https://www.pwabunga.com/github/pwa-bunga-intro.jpg" alt="header"/>
   <img src="https://www.pwabunga.com/github/pwa-bunga-features-title.jpg" alt="header"/>
 </div>
+<div align="center">
+<img src="https://www.pwabunga.com/github/pwa-bunga-features-01.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-01.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-01.jpg" alt="header"/>
+</div>
 
 ### Hi there 👋
 
