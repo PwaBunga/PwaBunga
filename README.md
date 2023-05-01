@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  a href="https://pwabunga.com/"><img src="https://www.pwabunga.com/github/pwa-bunga-intro.jpg" alt="header"/></a>
+  <a href="https://pwabunga.com/"><img src="https://www.pwabunga.com/github/pwa-bunga-intro.jpg" alt="header"/></a>
   <img src="https://www.pwabunga.com/github/pwa-bunga-features-title.jpg" alt="header"/>
 </div>
 <div align="center">
