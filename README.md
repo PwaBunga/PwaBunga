@@ -5,9 +5,12 @@
   <img src="https://www.pwabunga.com/github/pwa-bunga-features-title.jpg" alt="header"/>
 </div>
 <div align="center">
-<img src="https://www.pwabunga.com/github/pwa-bunga-features-1.jpg" alt="header"/>
-  <img src="https://www.pwabunga.com/github/pwa-bunga-features-1.jpg" alt="header"/>
-  <img src="https://www.pwabunga.com/github/pwa-bunga-features-1.jpg" alt="header"/>
+<img src="https://www.pwabunga.com/github/pwa-bunga-features-001.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-002.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-003.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-004.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-005.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-006.jpg" alt="header"/>
 </div>
 
 <!--
