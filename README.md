@@ -1,5 +1,9 @@
-[![MasterHead](https://www.pwabunga.com/github/pwa-bunga-intro.jpg)](https://pwabunga.com/)
 
+
+<div align="center">
+  <img src="https://www.pwabunga.com/github/pwa-bunga-intro.jpg" alt="header"/>
+  <img src="https://www.pwabunga.com/github/pwa-bunga-features-title.jpg" alt="header"/>
+</div>
 
 ### Hi there 👋
 
