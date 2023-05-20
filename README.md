@@ -29,7 +29,7 @@
 
 * The project's website: **[pwabunga.com](https://pwabunga.com/)**
 * The project's documentation (on project'swebsite): **[pwabunga.com/documentation/](https://pwabunga.com/documentation/)**
-* The project's demo: **[demo.pwabunga.com](https://demo.pwabunga.com/)**
+<!-- * The project's demo: **[demo.pwabunga.com](https://demo.pwabunga.com/)** -->
 
 ### Source code
 
